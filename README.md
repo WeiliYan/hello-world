@@ -1,3 +1,3 @@
 # hello-world
-A long journey
-Haha I will be a great data scientist
+A long jou
+Haha I will be a greatientist
